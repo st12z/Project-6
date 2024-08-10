@@ -121,44 +121,6 @@
   "jobs": [
     {
       "idCompany": 1,
-      "name": "Backend Developer (Java/Python)",
-      "tags": [
-        "Java",
-        "Python",
-        "SQL"
-      ],
-      "salary": "1200",
-      "description": "Join our dynamic team in Da Nang to work on innovative backend solutions. We are looking for experienced developers with a strong background in Java or Python and SQL. You will be part of a collaborative team focused on building scalable systems.",
-      "status": true,
-      "createAt": "01-05-2023 10:15:22",
-      "id": "1",
-      "city": [
-        "Đà Nẵng",
-        "Hà Nội"
-      ],
-      "updateAt": "02-05-2023 16:30:45"
-    },
-    {
-      "idCompany": 1,
-      "name": "Backend Developer (Java/Python)",
-      "tags": [
-        "Java",
-        "Python",
-        "SQL"
-      ],
-      "salary": "1200",
-      "description": "Join our dynamic team in Da Nang to work on innovative backend solutions. We are looking for experienced developers with a strong background in Java or Python and SQL. You will be part of a collaborative team focused on building scalable systems.",
-      "status": true,
-      "createAt": "01-05-2023 10:15:22",
-      "id": "2",
-      "city": [
-        "Đà Nẵng",
-        "Hà Nội"
-      ],
-      "updateAt": "02-05-2023 16:30:45"
-    },
-    {
-      "idCompany": 1,
       "name": "Frontend Dev (Angular/ReactJS)",
       "tags": [
         "ReactJS",
@@ -605,7 +567,33 @@
       "city": "Hà Nội"
     },
     {
-      "id": "22",
+      "id": "28",
+      "idCompany": 1,
+      "idJob": 1,
+      "name": "Le Van A",
+      "phone": "0123456789",
+      "email": "levana@gmail.com",
+      "statusRead": false,
+      "description": "Xin chào, tôi là Le Van A. Hiện tại tôi đang là...",
+      "linkProject": "https://example.com/project1",
+      "createAt": "29-04-2023 18:31:41",
+      "city": "Hà Nội"
+    },
+    {
+      "id": "29",
+      "idCompany": 1,
+      "idJob": 1,
+      "name": "Le Van A",
+      "phone": "0123456789",
+      "email": "levana@gmail.com",
+      "statusRead": false,
+      "description": "Xin chào, tôi là Le Van A. Hiện tại tôi đang là...",
+      "linkProject": "https://example.com/project1",
+      "createAt": "29-04-2023 18:31:41",
+      "city": "Hà Nội"
+    },
+    {
+      "id": "32",
       "idCompany": 1,
       "idJob": 2,
       "name": "Le Van A",
@@ -618,7 +606,7 @@
       "city": "Hà Nội"
     },
     {
-      "id": "23",
+      "id": "33",
       "idCompany": 1,
       "idJob": 3,
       "name": "Le Van B",
@@ -628,7 +616,8 @@
       "description": "Xin chào, tôi là Le Van A. Hiện tại tôi đang là...",
       "linkProject": "https://example.com/project1",
       "createAt": "29-04-2023 18:31:41",
-      "city": "Hà Nội"
+      "city": "Hà Nội",
+      "nameJob": "Frontend Dev (Angular/ReactJS)"
     },
     {
       "id": "24",

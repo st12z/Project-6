@@ -16,6 +16,7 @@ import DashBoard from "../../pages/DashBoard";
 import ManageJob from "../../pages/ManageJob";
 import ViewJob from "../../pages/ManageJob/ViewJob";
 import ManageCV from "../../pages/ManageCV";
+import CVDetail from "../../pages/ManageCV/CVDetail";
 export const routes = [
   {
     path: "/",
@@ -82,9 +83,13 @@ export const routes = [
             element: <ViewJob />,
           },
           {
+            path: "/cv/:id",
+            element: <CVDetail />,
+          },
+          {
             path: "cv",
             element: <ManageCV />,
-          }
+          },
         ],
       },
     ],

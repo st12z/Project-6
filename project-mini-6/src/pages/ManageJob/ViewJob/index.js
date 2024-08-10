@@ -27,14 +27,14 @@ function ViewJob() {
             <Tag color="blue" key={index}>{item}</Tag>
         ))}
       </p>
-      <p>Trạng thái: <strong>{data.createAt}</strong></p>
-      <p>Trạng thái: <strong>{data.updateAt}</strong></p>
+      <p>Ngày tạo: <strong>{data.createAt}</strong></p>
+      <p>Ngày cập nhật: <strong>{data.updateAt}</strong></p>
       <p>Thành phố:  
         {data.city && data.city.map((item,index)=>(
             <Tag color="yellow" key={index}>{item}</Tag>
         ))}
       </p>
-      <p>Trạng thái: <strong>{data.description}</strong></p>
+      <p>Mô tả: <strong>{data.description}</strong></p>
     </>
   );
 }
