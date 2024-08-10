@@ -1,0 +1,923 @@
+{
+  "city": [
+    {
+      "key": 1,
+      "value": "Hà Nội",
+      "id": "95d1"
+    },
+    {
+      "key": 2,
+      "value": "Hồ Chí Minh",
+      "id": "9353"
+    },
+    {
+      "key": 3,
+      "value": "Đà Nẵng",
+      "id": "6474"
+    }
+  ],
+  "tags": [
+    {
+      "key": 1,
+      "value": "HTML",
+      "id": "0810"
+    },
+    {
+      "key": 2,
+      "value": "CSS",
+      "id": "b515"
+    },
+    {
+      "key": 3,
+      "value": "JavaScript",
+      "id": "10be"
+    },
+    {
+      "key": 4,
+      "value": "Python",
+      "id": "a65a"
+    },
+    {
+      "key": 5,
+      "value": "Java",
+      "id": "9965"
+    },
+    {
+      "key": 6,
+      "value": "C++",
+      "id": "6990"
+    },
+    {
+      "key": 7,
+      "value": "C#",
+      "id": "5445"
+    },
+    {
+      "key": 8,
+      "value": "Ruby",
+      "id": "b899"
+    },
+    {
+      "key": 9,
+      "value": "PHP",
+      "id": "43ee"
+    },
+    {
+      "key": 10,
+      "value": "Swift",
+      "id": "81b9"
+    },
+    {
+      "key": 11,
+      "value": "Kotlin",
+      "id": "60fd"
+    },
+    {
+      "key": 12,
+      "value": "TypeScript",
+      "id": "a0aa"
+    },
+    {
+      "key": 13,
+      "value": "Go",
+      "id": "622e"
+    },
+    {
+      "key": 14,
+      "value": "Rust",
+      "id": "2989"
+    },
+    {
+      "key": 15,
+      "value": "R",
+      "id": "9018"
+    },
+    {
+      "key": 16,
+      "value": "Scala",
+      "id": "7c2f"
+    },
+    {
+      "key": 17,
+      "value": "Perl",
+      "id": "afcb"
+    },
+    {
+      "key": 18,
+      "value": "SQL",
+      "id": "6df6"
+    },
+    {
+      "key": 19,
+      "value": "ReactJS",
+      "id": "2d6b"
+    },
+    {
+      "key": 20,
+      "value": "AngularJS",
+      "id": "5c22"
+    }
+  ],
+  "jobs": [
+    {
+      "idCompany": 1,
+      "name": "Backend Developer (Java/Python)",
+      "tags": [
+        "Java",
+        "Python",
+        "SQL"
+      ],
+      "salary": "1200",
+      "description": "Join our dynamic team in Da Nang to work on innovative backend solutions. We are looking for experienced developers with a strong background in Java or Python and SQL. You will be part of a collaborative team focused on building scalable systems.",
+      "status": true,
+      "createAt": "01-05-2023 10:15:22",
+      "id": "1",
+      "city": [
+        "Đà Nẵng",
+        "Hà Nội"
+      ],
+      "updateAt": "02-05-2023 16:30:45"
+    },
+    {
+      "idCompany": 1,
+      "name": "Backend Developer (Java/Python)",
+      "tags": [
+        "Java",
+        "Python",
+        "SQL"
+      ],
+      "salary": "1200",
+      "description": "Join our dynamic team in Da Nang to work on innovative backend solutions. We are looking for experienced developers with a strong background in Java or Python and SQL. You will be part of a collaborative team focused on building scalable systems.",
+      "status": true,
+      "createAt": "01-05-2023 10:15:22",
+      "id": "2",
+      "city": [
+        "Đà Nẵng",
+        "Hà Nội"
+      ],
+      "updateAt": "02-05-2023 16:30:45"
+    },
+    {
+      "idCompany": 1,
+      "name": "Frontend Dev (Angular/ReactJS)",
+      "tags": [
+        "ReactJS",
+        "AngularJS",
+        "TypeScript"
+      ],
+      "salary": "1000",
+      "description": "Top 3 Reasons To Join Us\nChance to grow up in your ed and enthusiastic colleagues.\nAmazing new tech in escription\nTechcom Securities (TCBS) is seeking for a to join our IT team based in Hanoi office. An ideal would have 3+ years of experience in building highly Web/Mobile. This is your chance to become part of the and reputable investment banking team in looking for passionate, talented, and highly motivated Developers with a creative edge, strong problem strong on development fundamentals. We strive to lture where everyone is a contributor and feels ideas and opinions. Our team, drawn from the best is obsessive in its detailing and our focus is on ction.\n\nYour Skills and Experience\nRequired skilled at front-end engineering using Object-Oriented JavaScript libraries and micro frameworks",
+      "status": true,
+      "createAt": "29-04-2023 21:22:17",
+      "id": "3",
+      "city": [
+        "Hà Nội",
+        "Hồ Chí Minh"
+      ],
+      "updateAt": "30-04-2023 14:12:25"
+    },
+    {
+      "idCompany": 1,
+      "name": "Full Stack Developer (JavaScript/NodeJS)",
+      "tags": [
+        "JavaScript",
+        "NodeJS",
+        "ReactJS"
+      ],
+      "salary": "1500",
+      "description": "We are seeking a Full Stack Developer in Ho Chi Minh City. The ideal candidate will have experience with JavaScript, NodeJS, and ReactJS. You'll be working on both frontend and backend tasks, contributing to high-impact projects.",
+      "status": true,
+      "createAt": "02-05-2023 12:45:33",
+      "id": "4",
+      "city": [
+        "Hồ Chí Minh",
+        "Đà Nẵng"
+      ],
+      "updateAt": "03-05-2023 14:25:19"
+    },
+    {
+      "idCompany": 4,
+      "name": "Mobile Developer (Swift/Kotlin)",
+      "tags": [
+        "Swift",
+        "Kotlin",
+        "ReactJS"
+      ],
+      "salary": "1100",
+      "description": "Join our team in Hanoi as a Mobile Developer. We are looking for someone skilled in Swift or Kotlin to develop high-quality mobile applications. Experience with ReactJS is a plus.",
+      "status": true,
+      "createAt": "03-05-2023 09:34:50",
+      "id": "5",
+      "city": [
+        "Hà Nội",
+        "Hồ Chí Minh"
+      ],
+      "updateAt": "04-05-2023 11:15:02"
+    },
+    {
+      "idCompany": 5,
+      "name": "Data Scientist (Python/R)",
+      "tags": [
+        "Python",
+        "R",
+        "SQL"
+      ],
+      "salary": "1400",
+      "description": "We are hiring a Data Scientist in Da Nang. Ideal candidates should have strong skills in Python or R, and experience with SQL. You will be working on data analysis and machine learning projects.",
+      "status": true,
+      "createAt": "04-05-2023 15:55:12",
+      "id": "6",
+      "city": [
+        "Hồ Chí Minh",
+        "Đà Nẵng"
+      ],
+      "updateAt": "05-05-2023 17:10:30"
+    },
+    {
+      "idCompany": 6,
+      "name": "Frontend Dev (Angular/ReactJS)",
+      "tags": [
+        "ReactJS",
+        "AngularJS",
+        "TypeScript"
+      ],
+      "salary": "1000",
+      "description": "Top 3 Reasons To Join Us\nChance to grow up in your ed and enthusiastic colleagues.\nAmazing new tech in escription\nTechcom Securities (TCBS) is seeking for a to join our IT team based in Hanoi office. An ideal would have 3+ years of experience in building highly Web/Mobile. This is your chance to become part of the and reputable investment banking team in looking for passionate, talented, and highly motivated Developers with a creative edge, strong problem strong on development fundamentals. We strive to lture where everyone is a contributor and feels ideas and opinions. Our team, drawn from the best is obsessive in its detailing and our focus is on ction.\n\nYour Skills and Experience\nRequired skilled at front-end engineering using Object-Oriented JavaScript libraries and micro frameworks",
+      "status": true,
+      "createAt": "29-04-2023 21:22:17",
+      "id": "7",
+      "city": [
+        "Hà Nội",
+        "Hồ Chí Minh"
+      ],
+      "updateAt": "30-04-2023 14:12:25"
+    },
+    {
+      "idCompany": 6,
+      "name": "UX/UI Designer",
+      "tags": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "salary": "950",
+      "description": "Looking for a talented UX/UI Designer in Ho Chi Minh City. Responsibilities include designing user-friendly interfaces and collaborating with development teams.",
+      "status": true,
+      "createAt": "05-05-2023 10:12:20",
+      "id": "8",
+      "city": [
+        "Hồ Chí Minh"
+      ],
+      "updateAt": "06-05-2023 12:45:30"
+    },
+    {
+      "idCompany": 3,
+      "name": "DevOps Engineer (Go/Rust)",
+      "tags": [
+        "Go",
+        "Rust",
+        "Python"
+      ],
+      "salary": "1300",
+      "description": "Join our DevOps team in Hanoi. Experience with Go or Rust is required, along with knowledge in Python. You'll be working on automating and optimizing deployment pipelines.",
+      "status": true,
+      "createAt": "06-05-2023 14:22:05",
+      "id": "9",
+      "city": [
+        "Hồ Chí Minh",
+        "Đà Nẵng"
+      ],
+      "updateAt": "07-05-2023 16:00:45"
+    },
+    {
+      "idCompany": 8,
+      "name": "Game Developer (C++/C#)",
+      "tags": [
+        "C++",
+        "C#",
+        "Unity"
+      ],
+      "salary": "1600",
+      "description": "We are seeking a Game Developer in Da Nang. Strong skills in C++ or C# and experience with Unity are required. Work on cutting-edge game projects with a creative team.",
+      "status": true,
+      "createAt": "07-05-2023 11:30:20",
+      "id": "11",
+      "city": [
+        "Đà Nẵng"
+      ],
+      "updateAt": "08-05-2023 13:40:55"
+    },
+    {
+      "idCompany": 9,
+      "name": "Web Developer (PHP/Ruby)",
+      "tags": [
+        "PHP",
+        "Ruby",
+        "JavaScript"
+      ],
+      "salary": "1050",
+      "description": "Join our development team in Ho Chi Minh City. We are looking for web developers with experience in PHP or Ruby, and a strong understanding of JavaScript.",
+      "status": true,
+      "createAt": "08-05-2023 12:15:55",
+      "id": "12",
+      "city": [
+        "Hà Nội",
+        "Hồ Chí Minh"
+      ],
+      "updateAt": "09-05-2023 15:20:10"
+    },
+    {
+      "idCompany": 10,
+      "name": "Web Developer (PHP/Ruby)",
+      "tags": [
+        "PHP",
+        "Ruby",
+        "JavaScript"
+      ],
+      "salary": "1050",
+      "description": "Join our development team in Ho Chi Minh City. We are looking for web developers with experience in PHP or Ruby, and a strong understanding of JavaScript.",
+      "status": false,
+      "createAt": "08-05-2023 12:15:55",
+      "id": "13",
+      "city": [
+        "Hà Nội",
+        "Hồ Chí Minh"
+      ],
+      "updateAt": "09-05-2023 15:20:10"
+    },
+    {
+      "idCompany": 10,
+      "name": "System Analyst (SQL/Java)",
+      "tags": [
+        "SQL",
+        "Java",
+        "Python"
+      ],
+      "salary": "1250",
+      "description": "Seeking a System Analyst in Hanoi. Proficiency in SQL and Java is required. You'll be analyzing system requirements and designing solutions for complex problems.",
+      "status": true,
+      "createAt": "09-05-2023 10:45:30",
+      "id": "15",
+      "city": [
+        "Hà Nội"
+      ],
+      "updateAt": "10-05-2023 12:25:50"
+    },
+    {
+      "idCompany": 11,
+      "name": "Cloud Engineer (AWS/Azure)",
+      "tags": [
+        "AWS",
+        "Azure",
+        "Python"
+      ],
+      "salary": "1400",
+      "description": "We are hiring a Cloud Engineer for our Da Nang office. Experience with AWS or Azure is required, along with proficiency in Python for cloud infrastructure management.",
+      "status": true,
+      "createAt": "10-05-2023 11:30:00",
+      "id": "16",
+      "city": [
+        "Hồ Chí Minh",
+        "Đà Nẵng"
+      ],
+      "updateAt": "11-05-2023 14:00:20"
+    },
+    {
+      "idCompany": 12,
+      "name": "AI Engineer (Python/Rust)",
+      "tags": [
+        "Python",
+        "Rust",
+        "Machine Learning"
+      ],
+      "salary": "1500",
+      "description": "Join our AI team in Ho Chi Minh City. We are looking for AI Engineers with experience in Python and Rust, working on machine learning and AI projects.",
+      "status": true,
+      "createAt": "11-05-2023 10:55:35",
+      "id": "17",
+      "city": [
+        "Hồ Chí Minh"
+      ],
+      "updateAt": "12-05-2023 13:25:40"
+    },
+    {
+      "idCompany": 13,
+      "name": "Software Engineer (TypeScript/ReactJS)",
+      "tags": [
+        "TypeScript",
+        "ReactJS",
+        "JavaScript"
+      ],
+      "salary": "1100",
+      "description": "We are looking for a Software Engineer in Hanoi with expertise in TypeScript and ReactJS. Work on building scalable web applications and collaborate with a talented team.",
+      "status": true,
+      "createAt": "12-05-2023 09:45:20",
+      "id": "18",
+      "city": [
+        "Hà Nội"
+      ],
+      "updateAt": "13-05-2023 15:10:35"
+    },
+    {
+      "idCompany": 14,
+      "name": "Database Administrator (SQL/NoSQL)",
+      "tags": [
+        "SQL",
+        "NoSQL",
+        "Database Management"
+      ],
+      "salary": "1200",
+      "description": "Join our team in Da Nang as a Database Administrator. Experience with SQL and NoSQL databases required. Manage and optimize our database systems.",
+      "status": true,
+      "createAt": "13-05-2023 11:10:00",
+      "id": "19",
+      "city": [
+        "Đà Nẵng"
+      ],
+      "updateAt": "14-05-2023 16:45:20"
+    },
+    {
+      "idCompany": 15,
+      "name": "Security Engineer (Python/Go)",
+      "tags": [
+        "Python",
+        "Go",
+        "Security"
+      ],
+      "salary": "1300",
+      "description": "We are hiring a Security Engineer in Ho Chi Minh City. Strong knowledge in Python and Go is required, focusing on security and protecting our infrastructure.",
+      "status": true,
+      "createAt": "14-05-2023 13:30:25",
+      "id": "20",
+      "city": [
+        "Hồ Chí Minh"
+      ],
+      "updateAt": "15-05-2023 18:00:10"
+    },
+    {
+      "idCompany": 16,
+      "name": "Mobile App Developer (Flutter/Dart)",
+      "tags": [
+        "Flutter",
+        "Dart",
+        "Mobile Development"
+      ],
+      "salary": "1150",
+      "description": "Join our development team in Hanoi. Experience with Flutter and Dart for mobile app development is required. Work on innovative mobile applications.",
+      "status": true,
+      "createAt": "15-05-2023 10:00:45",
+      "id": "21",
+      "city": [
+        "Hà Nội"
+      ],
+      "updateAt": "16-05-2023 12:30:00"
+    },
+    {
+      "idCompany": 17,
+      "name": "System Administrator (Linux/Windows)",
+      "tags": [
+        "Linux",
+        "Windows",
+        "System Administration"
+      ],
+      "salary": "1000",
+      "description": "We are looking for a System Administrator in Da Nang. Proficiency in Linux and Windows systems is required. Manage and maintain our IT infrastructure.",
+      "status": true,
+      "createAt": "16-05-2023 14:15:35",
+      "id": "22",
+      "city": [
+        "Đà Nẵng",
+        "Hồ Chí Minh"
+      ],
+      "updateAt": "17-05-2023 16:50:25"
+    },
+    {
+      "idCompany": 18,
+      "name": "Web Designer (HTML/CSS)",
+      "tags": [
+        "HTML",
+        "CSS",
+        "Web Design"
+      ],
+      "salary": "950",
+      "description": "Join our creative team in Ho Chi Minh City. We are looking for a Web Designer with strong skills in HTML and CSS to design visually appealing websites.",
+      "status": true,
+      "createAt": "17-05-2023 11:25:50",
+      "id": "23",
+      "city": [
+        "Hà Nội",
+        "Hồ Chí Minh"
+      ],
+      "updateAt": "18-05-2023 12:55:15"
+    },
+    {
+      "idCompany": 19,
+      "name": "Technical Writer",
+      "tags": [
+        "Technical Writing",
+        "Documentation",
+        "Communication"
+      ],
+      "salary": "900",
+      "description": "We are hiring a Technical Writer in Hanoi. Strong writing and communication skills required to create and maintain technical documentation.",
+      "status": true,
+      "createAt": "18-05-2023 15:00:35",
+      "id": "24",
+      "city": [
+        "Hà Nội"
+      ],
+      "updateAt": "19-05-2023 17:25:20"
+    },
+    {
+      "idCompany": 20,
+      "name": "Blockchain Developer (Solidity/Ethereum)",
+      "tags": [
+        "Solidity",
+        "Ethereum",
+        "Blockchain"
+      ],
+      "salary": "1700",
+      "description": "Join our team in Ho Chi Minh City as a Blockchain Developer. Experience with Solidity and Ethereum required. Work on cutting-edge blockchain projects.",
+      "status": true,
+      "createAt": "19-05-2023 14:40:10",
+      "id": "25",
+      "city": [
+        "Hồ Chí Minh"
+      ],
+      "updateAt": "20-05-2023 15:50:25"
+    },
+    {
+      "name": "DATA AL",
+      "tags": [
+        "Java",
+        "SQL"
+      ],
+      "salary": "2000",
+      "city": [
+        "Đà Nẵng"
+      ],
+      "description": "aaaa",
+      "status": true,
+      "id": "Cy-4Xmj"
+    },
+    {
+      "idCompany": "1",
+      "name": "DATA AL",
+      "tags": [
+        "Java",
+        "SQL"
+      ],
+      "salary": "2000",
+      "city": [
+        "Đà Nẵng"
+      ],
+      "description": "aaaaaaa",
+      "status": true,
+      "id": "ZSksq1q"
+    },
+    {
+      "idCompany": "1",
+      "name": "FrontEnd Developer",
+      "tags": [
+        "JavaScript"
+      ],
+      "salary": "2000",
+      "city": [
+        "Hà Nội"
+      ],
+      "description": "a",
+      "status": true,
+      "id": "rkELbqq"
+    }
+  ],
+  "cv": [
+    {
+      "id": "1",
+      "idCompany": 1,
+      "idJob": 1,
+      "name": "Le Van A",
+      "phone": "0123456789",
+      "email": "levana@gmail.com",
+      "statusRead": true,
+      "description": "Xin chào, tôi là Le Van A. Hiện tại tôi đang là...",
+      "linkProject": "https://example.com/project1",
+      "createAt": "29-04-2023 18:31:41",
+      "city": "Hà Nội"
+    },
+    {
+      "id": "22",
+      "idCompany": 1,
+      "idJob": 2,
+      "name": "Le Van A",
+      "phone": "0123456789",
+      "email": "levana@gmail.com",
+      "statusRead": true,
+      "description": "Xin chào, tôi là Le Van A. Hiện tại tôi đang là...",
+      "linkProject": "https://example.com/project1",
+      "createAt": "29-04-2023 18:31:41",
+      "city": "Hà Nội"
+    },
+    {
+      "id": "23",
+      "idCompany": 1,
+      "idJob": 3,
+      "name": "Le Van B",
+      "phone": "01234567289",
+      "email": "levfaana@gmail.com",
+      "statusRead": true,
+      "description": "Xin chào, tôi là Le Van A. Hiện tại tôi đang là...",
+      "linkProject": "https://example.com/project1",
+      "createAt": "29-04-2023 18:31:41",
+      "city": "Hà Nội"
+    },
+    {
+      "id": "24",
+      "idCompany": 1,
+      "idJob": 4,
+      "name": "Le Van B",
+      "phone": "01234567289",
+      "email": "levfaana@gmail.com",
+      "statusRead": true,
+      "description": "Xin chào, tôi là Le Van A. Hiện tại tôi đang là...",
+      "linkProject": "https://example.com/project1",
+      "createAt": "29-04-2023 18:31:41",
+      "city": "Hà Nội"
+    },
+    {
+      "id": "dfb7",
+      "name": "Nguyễn Tiến Thực",
+      "phone": "0969716421",
+      "email": "ckp2004vn@gmail.com",
+      "city": "Hà Nội",
+      "description": "my name is brian",
+      "linkProject": "https://github.com/st12z/ktmt/blob/main/M%C3%94%20PH%E1%BB%8ENG%20%C4%90%C3%88N%20LED",
+      "idJob": 2,
+      "idCompany": 2,
+      "createAt": "8-08-2024 23:06:36"
+    },
+    {
+      "id": "07e6",
+      "name": "Trần  Quang Tuấn",
+      "phone": "0966221459",
+      "email": "tranquangtuan@gmail.com",
+      "city": "Đà Nẵng",
+      "description": "my name is tuan",
+      "linkProject": "https://github.com/st12z/ktmt/blob/main/M%C3%94%20PH%E1%BB%8ENG%20%C4%90%C3%88N%20LED",
+      "idJob": 2,
+      "idCompany": 2,
+      "createAt": "8-08-2024 23:13:17"
+    }
+  ],
+  "company": [
+    {
+      "companyName": "Công ty ABC123",
+      "phone": "093532453",
+      "email": "contact@abc.com",
+      "password": "123456",
+      "token": "pwYJNkMDkmVJNVj382",
+      "id": "1",
+      "quantityPeople": 8,
+      "description": "Công ty có mục tiêu trở thành....",
+      "detail": "Mức lương cạnh tranh, thưởng lễ tết,....",
+      "address": "123 đường Trần Phú",
+      "workingTime": "T2- T7",
+      "website": "https://abc.com"
+    },
+    {
+      "companyName": "Công ty XYZ",
+      "phone": "093532454",
+      "email": "contact@xyz.com",
+      "password": "654321",
+      "token": "pwYJNkMDkmVJNVj383",
+      "id": "2",
+      "quantityPeople": 15,
+      "description": "Công ty hàng đầu về công nghệ....",
+      "detail": "Môi trường làm việc thân thiện,....",
+      "address": "456 đường Lê Lợi",
+      "workingTime": "T2- T6",
+      "website": "https://xyz.com"
+    },
+    {
+      "companyName": "Công ty DEF",
+      "phone": "093532455",
+      "email": "contact@def.com",
+      "password": "abcdef",
+      "token": "pwYJNkMDkmVJNVj384",
+      "id": "3",
+      "quantityPeople": 10,
+      "description": "Công ty chuyên về phần mềm....",
+      "detail": "Chế độ bảo hiểm đầy đủ,....",
+      "address": "789 đường Nguyễn Huệ",
+      "workingTime": "T2- T7",
+      "website": "https://def.com"
+    },
+    {
+      "companyName": "Công ty PQR",
+      "phone": "093532459",
+      "email": "contact@pqr.com",
+      "password": "pqrstu",
+      "token": "pwYJNkMDkmVJNVj388",
+      "id": "7",
+      "quantityPeople": 25,
+      "description": "Công ty dẫn đầu thị trường....",
+      "detail": "Chương trình đào tạo tốt,....",
+      "address": "123 đường Bà Triệu",
+      "workingTime": "T2- T7",
+      "website": "https://pqr.com"
+    },
+    {
+      "companyName": "Công ty STU",
+      "phone": "093532460",
+      "email": "contact@stu.com",
+      "password": "stuvwx",
+      "token": "pwYJNkMDkmVJNVj389",
+      "id": "8",
+      "quantityPeople": 14,
+      "description": "Công ty chuyên về sản xuất....",
+      "detail": "Phúc lợi tốt,....",
+      "address": "456 đường Phạm Ngũ Lão",
+      "workingTime": "T2- T6",
+      "website": "https://stu.com"
+    },
+    {
+      "companyName": "Công ty VWX",
+      "phone": "093532461",
+      "email": "contact@vwx.com",
+      "password": "vwxyz",
+      "token": "pwYJNkMDkmVJNVj390",
+      "id": "9",
+      "quantityPeople": 30,
+      "description": "Công ty có môi trường làm việc....",
+      "detail": "Chế độ nghỉ phép tốt,....",
+      "address": "789 đường Bạch Đằng",
+      "workingTime": "T2- T7",
+      "website": "https://vwx.com"
+    },
+    {
+      "companyName": "Công ty YZA",
+      "phone": "093532462",
+      "email": "contact@yza.com",
+      "password": "yza123",
+      "token": "pwYJNkMDkmVJNVj391",
+      "id": "10",
+      "quantityPeople": 22,
+      "description": "Công ty chuyên về marketing....",
+      "detail": "Cơ hội học hỏi nhiều,....",
+      "address": "321 đường Hùng Vương",
+      "workingTime": "T2- T6",
+      "website": "https://yza.com"
+    },
+    {
+      "companyName": "Công ty BCD",
+      "phone": "093532463",
+      "email": "contact@bcd.com",
+      "password": "bcd456",
+      "token": "pwYJNkMDkmVJNVj392",
+      "id": "11",
+      "quantityPeople": 16,
+      "description": "Công ty tiên phong trong lĩnh vực....",
+      "detail": "Lương thưởng hấp dẫn,....",
+      "address": "654 đường Quang Trung",
+      "workingTime": "T2- T7",
+      "website": "https://bcd.com"
+    },
+    {
+      "companyName": "Công ty EFG",
+      "phone": "093532464",
+      "email": "contact@efg.com",
+      "password": "efg789",
+      "token": "pwYJNkMDkmVJNVj393",
+      "id": "12",
+      "quantityPeople": 19,
+      "description": "Công ty phát triển phần mềm....",
+      "detail": "Chính sách phúc lợi tốt,....",
+      "address": "987 đường Trần Hưng Đạo",
+      "workingTime": "T2- T6",
+      "website": "https://efg.com"
+    },
+    {
+      "companyName": "Công ty HIJ",
+      "phone": "093532465",
+      "email": "contact@hij.com",
+      "password": "hij101",
+      "token": "pwYJNkMDkmVJNVj394",
+      "id": "13",
+      "quantityPeople": 24,
+      "description": "Công ty tiên tiến về công nghệ....",
+      "detail": "Thưởng hiệu suất cao,....",
+      "address": "123 đường Võ Văn Kiệt",
+      "workingTime": "T2- T7",
+      "website": "https://hij.com"
+    },
+    {
+      "companyName": "Công ty KLM",
+      "phone": "093532466",
+      "email": "contact@klm.com",
+      "password": "klm123",
+      "token": "pwYJNkMDkmVJNVj395",
+      "id": "14",
+      "quantityPeople": 13,
+      "description": "Công ty hàng đầu về nghiên cứu....",
+      "detail": "Chế độ đãi ngộ tốt,....",
+      "address": "456 đường Nguyễn Chí Thanh",
+      "workingTime": "T2- T6",
+      "website": "https://klm.com"
+    },
+    {
+      "companyName": "Công ty NOP",
+      "phone": "093532467",
+      "email": "contact@nop.com",
+      "password": "nop789",
+      "token": "pwYJNkMDkmVJNVj396",
+      "id": "15",
+      "quantityPeople": 27,
+      "description": "Công ty chuyên về dịch vụ....",
+      "detail": "Đãi ngộ hấp dẫn,....",
+      "address": "789 đường Hòa Bình",
+      "workingTime": "T2- T7",
+      "website": "https://nop.com"
+    },
+    {
+      "companyName": "Công ty QRS",
+      "phone": "093532468",
+      "email": "contact@qrs.com",
+      "password": "qrs456",
+      "token": "pwYJNkMDkmVJNVj397",
+      "id": "16",
+      "quantityPeople": 21,
+      "description": "Công ty có nhiều giải pháp....",
+      "detail": "Cơ hội thăng tiến tốt,....",
+      "address": "321 đường Lý Thái Tổ",
+      "workingTime": "T2- T6",
+      "website": "https://qrs.com"
+    },
+    {
+      "companyName": "Công ty TUV",
+      "phone": "093532469",
+      "email": "contact@tuv.com",
+      "password": "tuv321",
+      "token": "pwYJNkMDkmVJNVj398",
+      "id": "17",
+      "quantityPeople": 29,
+      "description": "Công ty chuyên về logistics....",
+      "detail": "Chế độ phúc lợi đầy đủ,....",
+      "address": "654 đường Tôn Đức Thắng",
+      "workingTime": "T2- T7",
+      "website": "https://tuv.com"
+    },
+    {
+      "companyName": "Công ty WXY",
+      "phone": "093532470",
+      "email": "contact@wxy.com",
+      "password": "wxy654",
+      "token": "pwYJNkMDkmVJNVj399",
+      "id": "18",
+      "quantityPeople": 17,
+      "description": "Công ty nổi tiếng về phát triển web....",
+      "detail": "Thời gian làm việc linh hoạt,....",
+      "address": "987 đường Phan Đình Phùng",
+      "workingTime": "T2- T6",
+      "website": "https://wxy.com"
+    },
+    {
+      "companyName": "Công ty ZAB",
+      "phone": "093532471",
+      "email": "contact@zab.com",
+      "password": "zab123",
+      "token": "pwYJNkMDkmVJNVj400",
+      "id": "19",
+      "quantityPeople": 11,
+      "description": "Công ty chuyên về thiết kế đồ họa....",
+      "detail": "Cơ hội học hỏi nhiều,....",
+      "address": "123 đường Lê Duẩn",
+      "workingTime": "T2- T7",
+      "website": "https://zab.com"
+    },
+    {
+      "companyName": "Công ty CDE",
+      "phone": "093532472",
+      "email": "contact@cde.com",
+      "password": "cde456",
+      "token": "pwYJNkMDkmVJNVj401",
+      "id": "20",
+      "quantityPeople": 23,
+      "description": "Công ty chuyên về dịch vụ tài chính....",
+      "detail": "Đãi ngộ tốt,....",
+      "address": "456 đường Hai Bà Trưng",
+      "workingTime": "T2- T6",
+      "website": "https://cde.com"
+    },
+    {
+      "companyName": "Công ty ABC23",
+      "email": "contact@abc.com",
+      "phone": "093532452",
+      "address": "123 đường Trần Phú",
+      "quantityPeople": 8,
+      "workingTime": "T2- T7",
+      "website": "https://abc.com",
+      "description": "Công ty có mục tiêu trở thành....",
+      "detail": "Mức lương cạnh tranh, thưởng lễ tết,....",
+      "id": "esJxGq3"
+    }
+  ]
+}

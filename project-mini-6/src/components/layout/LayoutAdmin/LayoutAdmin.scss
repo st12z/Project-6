@@ -1,0 +1,52 @@
+.layout__admin {
+    &__header {
+        background-color: white;
+        border-bottom: 1px solid #ddd;
+        padding: 10px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        &__logo {
+            width: 200px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            a {
+
+                text-decoration: none;
+                font-weight: 700;
+                font-size: 30px;
+            }
+            &--collapsed{
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                font-size: 30px;
+                font-weight: 600;
+                width: 80px;
+                transition: all 0.2s;
+            }
+        }
+
+        &__nav {
+            display: flex;
+            justify-content: space-between;
+            flex: 1;
+            align-items: center;
+            &-left {
+                cursor: pointer;
+                font-size: 20px;
+            }
+
+            &-right {
+                button {
+                    margin-right: 10px;
+                }
+            }
+        }
+    }
+    &__content{
+        background-color: white;
+        padding: 10px 10px;
+    }
+}
